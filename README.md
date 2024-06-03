@@ -1,5 +1,5 @@
 
-# PizzaRunner_CS
+# Case Study #2 - Pizza Runner
 ![image](https://user-images.githubusercontent.com/89623051/143556857-bbfc6c54-ea67-48ff-bcf5-5a1b8ecd8d20.png)
 
 ![image](https://user-images.githubusercontent.com/89623051/143557019-c7d4c62e-e248-40cb-914f-df5a14b8c8bf.png)
